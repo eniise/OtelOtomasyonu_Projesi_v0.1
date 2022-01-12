@@ -1,0 +1,40 @@
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\bin\Debug\otel_otomasyonu.exe.config
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\bin\Debug\otel_otomasyonu.exe
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\bin\Debug\otel_otomasyonu.pdb
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.Form1.resources
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.Form2.resources
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.frmKafeterya.resources
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.frmKafeteryaSiparis.resources
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.Frmodalar.resources
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.frmUrunListe.resources
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.frmKasaRapor.resources
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.MusteriEkranı.resources
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.müsteri.resources
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.personel.resources
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.Properties.Resources.resources
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.csproj.GenerateResource.cache
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.exe
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.pdb
+C:\Users\ER BİLİŞİM\Source\Repos\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.csprojAssemblyReference.cache
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.csprojAssemblyReference.cache
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.Form1.resources
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.Form2.resources
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.frmKafeterya.resources
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.frmKafeteryaSiparis.resources
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.Frmodalar.resources
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.frmUrunListe.resources
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.frmKasaRapor.resources
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.MusteriEkranı.resources
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.müsteri.resources
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.personel.resources
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.Properties.Resources.resources
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.csproj.GenerateResource.cache
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.exe
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.pdb
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\bin\Debug\otel_otomasyonu.exe.config
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\bin\Debug\otel_otomasyonu.exe
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\bin\Debug\otel_otomasyonu.pdb
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\enise\Desktop\otel_otomasyonu\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.csproj.CopyComplete
